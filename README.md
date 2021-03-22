@@ -2,4 +2,4 @@
 - 👀 I am interested in Web knowledge
 - 🌱 I am currently studying at university of science
 - 💞️ I am looking to collaborate on Github
-- 📫 Contact me via:
+- 📫 Contact me via: https://www.facebook.com/khanq.duy.73/
