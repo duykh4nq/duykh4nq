@@ -14,7 +14,7 @@
 
 
 [![HTML Badge](https://img.shields.io/badge/-Html-FF0000?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=FF0000)](#) 
-[![CSS Badge](https://img.shields.io/badge/-CSS-3C873A?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=3C873A)](#) 
+[![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=1572B6)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7952B3)](#)
 [![React Badge](https://img.shields.io/badge/-ReactJs-007acc?style=for-the-badge&labelColor=black&logo=react&logoColor=007acc)](#)
