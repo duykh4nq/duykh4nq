@@ -10,7 +10,7 @@
 - 💞️ I am looking to collaborate on Github
 - 📫 Contact me via: [Fackbook](https://www.facebook.com/khanq.duy.73/)
 
-### Skills 🖋
+## Skills 🖋
 
 
 [![HTML Badge](https://img.shields.io/badge/-Html-FF0000?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=FF0000)](#) 
@@ -19,7 +19,7 @@
 [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7952B3)](#)
 [![React Badge](https://img.shields.io/badge/-ReactJs-007acc?style=for-the-badge&labelColor=black&logo=react&logoColor=007acc)](#)
 
-### Resume ☘
+## Resume ☘
 <p align="center">
   <img src='https://camo.githubusercontent.com/4c8d92806e3c2322a2c390ffa0019c1d6f78a4d82108aa6946863ae362a763c8/68747470733a2f2f69322e77702e636f6d2f616c6c68746163636573732e696e666f2f77702d636f6e74656e742f75706c6f6164732f323031382f30332f70726f6772616d6d696e672e6769663f6669743d313238312532433731362673736c3d31' width='120"' height='80"'>
   <img src='https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-max-1mb.gif' width='120"' height='80"'>
