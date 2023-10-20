@@ -6,7 +6,7 @@
 ## About me 💟
 - 👋 Hello, I'm @Khanq
 - 👀 I am interested in Web knowledge
-- 🌱 I am currently studying at university of science
+- 🌱 I have graduated from university of science
 - 💞️ I am looking to collaborate on Github
 - 📫 Contact me via: [Fackbook](https://www.facebook.com/khanq.duy.73/)
 
